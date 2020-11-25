@@ -1,0 +1,3 @@
+# Cake-order-Project-JS
+This project about JS promises and chain promises
+1. we create function and return promise there... 
